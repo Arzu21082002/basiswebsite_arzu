@@ -39,6 +39,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+Wat goed ging: 
+-Logo maken
+Wat slecht ging/waar verbetering in kan komen:
+-Flexbox
+-Het navigatiebar opstellen
+-Images responsive genoeg maken
+-Tekst onder een afbeelding
+-plannen
+(Ik had ook net te weinig tijd)
 
 **Screenshot(s):**
 
